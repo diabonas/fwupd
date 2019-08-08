@@ -1,0 +1,3 @@
+# FIXME
+[DeviceInstanceId=HIDRAW\VEN_06CB&DEV_4875]
+Plugin = synaptics_rmi
