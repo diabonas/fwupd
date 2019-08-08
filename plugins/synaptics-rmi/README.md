@@ -15,7 +15,7 @@ Firmware Format
 ---------------
 
 The daemon will decompress the cabinet archive and extract a firmware blob in
-Intel HEX file format.
+a proprietary (but docucumented) file format.
 
 This plugin supports the following protocol ID:
 
